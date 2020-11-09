@@ -1,4 +1,4 @@
-# Dataproc
+# terraform-google-dataproc
 
 ## Terraform Structure
 Overall File structure for regional dataproc section. To provision, edit the terraform.tfvars files within the folders.
