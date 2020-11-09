@@ -1,0 +1,6 @@
+project_id = ""
+region     = ""
+zone       = ""
+network    = ""
+subnetwork = ""
+service_account = ""
